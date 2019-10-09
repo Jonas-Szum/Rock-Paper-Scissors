@@ -1,6 +1,6 @@
 Like my last program, the client and prog3 folders will work if you just insert them into your 
 eclipse-workspace folder. The test cases are included in those folders, but also copied into the folder
-called casesForBoth.
+called casesForBoth. This program was my first attempt at multithreading.
 
 The pictures go in order of Rock, Paper, Scissors, Lizard, Spock.
 
